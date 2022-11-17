@@ -1,4 +1,4 @@
-# The Graph-Based Data Model!00!
+# The Graph-Based Data Model
 The ICDC data model is graph-based, where nodes are functionally equivalent to the tables of a traditional relational database, and the properties within each node effectively represent what would be columns or fields in the corresponding table, with relationships stored at the level of individual records. More importantly, however, the data model was developed to support both cross-sectional studies aimed at answering questions concerning basic cancer biology and the mechanisms by which malignancies develop, and longitudinal clinical trials assessing therapeutic interventions in canine subjects who have developed spontaneous cancers. Accordingly, although no single study is likely to propagate data into every node, let alone every property within every node, the data model has sufficient inherent flexibility to accommodate any given type of canine study.
 ​
 ​
