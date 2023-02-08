@@ -76,4 +76,4 @@ Groups of records that contain information about an individual and are designed 
 * Identities of all third-party vendors involved in the measurement and customization process
 
 #### Data Retention and Access Limits
-The ICDC will retain data collected using the following technologies long enough to achieve the specified objective for which they were collected. The data generated from these activities falls under the National Archives and Records Administration (NARA) General Records Schedule (GRS) 20-item IC 'Electronic Records, and will be handled per the requirements of that schedul
+The ICDC will retain data collected using the following technologies long enough to achieve the specified objective for which they were collected. The data generated from these activities falls under the National Archives and Records Administration (NARA) General Records Schedule (GRS) 20-item IC 'Electronic Records, and will be handled per the requirements of that schedule
