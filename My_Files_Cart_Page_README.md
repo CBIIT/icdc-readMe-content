@@ -1,6 +1,4 @@
- 
-
-### The “My Files” cart page 
+ ### The “My Files” cart page 
 
 The Integrated Canine Data Commons (ICDC) is a repository that enables cohort building and discovery through the interactive “Explore” Dashboard. Once cases and samples of interest have been identified, the files can be added to the “My Files” Cart Page. This page is intended to compile data files of interest and facilitate downstream analysis using publicly available or custom cloud-based bioinformatic workflows, pipelines, or applications within the [Cancer Research Data Commons (CRDC)](https://datacommons.cancer.gov/). 
  
