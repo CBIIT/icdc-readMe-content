@@ -16,21 +16,21 @@ After downloading the file manifest from the ICDC, there is no need to download 
 In order to export the ICDC file manifest to the Cancer Genomics Cloud (CGC) follow the steps listed below: 
  
 
-1. Create an account or login at this URL: [https://www.cancergenomicscloud.org/](https://www.cancergenomicscloud.org/)
+* Create an account or login at this URL: [https://www.cancergenomicscloud.org/](https://www.cancergenomicscloud.org/)
 
-2. Create a project or select an existing project appropriate for digital access to the files in the file manifest.  
+* Create a project or select an existing project appropriate for digital access to the files in the file manifest.  
 
-3. From the CGC dashboard navigation bar, select “Files” and then click on the “+ Add files” button dropdown menu.  
+* From the CGC dashboard navigation bar, select “Files” and then click on the “+ Add files” button dropdown menu.  
 
-4. From the “Import files from” dropdown menu, select “Integrated Canine Data Commons (ICDC)”.  
+* From the “Import files from” dropdown menu, select “Integrated Canine Data Commons (ICDC)”.  
 
-5. Upload the local copy of the ICDC file manifest generated from the ICDC by dragging the file to drop zone or clicking on the “Browse files” button. 
+* Upload the local copy of the ICDC file manifest generated from the ICDC by dragging the file to drop zone or clicking on the “Browse files” button. 
 
-6. Use the free text search text box to add applicable tags or comments associated with the batch of files being imported and click on the “Import” button. 
+* Use the free text search text box to add applicable tags or comments associated with the batch of files being imported and click on the “Import” button. 
 
-7. There will now be DRS (Data Repository Service) identifiers displayed for each file from the file manifest imported within the selected CGC project. 
+* There will now be DRS (Data Repository Service) identifiers displayed for each file from the file manifest imported within the selected CGC project. 
 
-8. These files can now be viewed in the CGC Genome Browser or selected as inputs for downstream analysis. 
+* These files can now be viewed in the CGC Genome Browser or selected as inputs for downstream analysis. 
 
 
 ### The Export to CGC button (Coming Soon) 
