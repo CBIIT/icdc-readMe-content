@@ -35,6 +35,7 @@ Each property is assigned one of three requirement levels - Required, Preferred,
 - **Required** properties are largely self-explanatory, i.e. data destined for a node which contains required properties must include values for all such properties, and values must be compliant with the acceptable values for properties which are both required and enumerated. Controlled vocabularies for such properties typically include terms such as “Not Applicable”, “Not Determined” and “Unknown” to accommodate situations where data values aren’t relevant or weren’t collected, either by design or otherwise. Notably, for nodes into which a data submitter is not propagating any data values, required fields are no longer relevant, and can be ignored.
 - **Preferred** properties represent properties for which data values are not required, but which add significant insight and detail, have been populated to a significant degree thus far, and for which data is typically available when requested during study on-boarding.
 - **Optional** properties are precisely that and null values are allowed.
+
 <!-- PAGE BREAK -->
 
 ### Key Properties
