@@ -8,7 +8,7 @@ The CRDC is a cloud-based ecosystem that provides secure access to cancer resear
 
 ### The ICDC File Manifest 
 Within the ICDC, a user can easily generate a file manifest using the dashboard "Explore" page. Data can be filtered by various attributes using a robust menu of facet filters. Cases, samples, and files matching selected filter criteria are displayed in a table and represented by color-coded widgets. After the desired level of filtering has been completed, files associated with cases and samples can be added to a user’s “My Files” cart page. Once files have been added to the cart, clicking on the “Download File Manifest” button will generate a file manifest compatible with any of the CRDC Cloud Resources. The ICDC file manifest is ascribed a timestamp at the time of download and includes the study code, case ID, file name, file ID, and MD5sum pertaining to each file. 
- 
+<!-- PAGE BREAK -->
 
 ### Exporting the ICDC File Manifest to the Cancer Genomics Cloud (CGC) 
 After downloading the file manifest from the ICDC, there is no need to download any of the ICDC files locally. Instead, the file manifest provides all of the instructions needed for the Cloud Resources to access these files on demand directly from cloud storage.  
