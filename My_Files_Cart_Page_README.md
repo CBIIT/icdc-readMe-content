@@ -52,6 +52,7 @@ To get started with analyzing data quickly check out the new ICDC Tutorial websi
 - Click on "Export to Cancer Genomics Cloud"
 
 * Follow the prompts to login to the CGC
+<!-- PAGE BREAK --> 
 
 - Select a Destination project from the dropdown menu
 
