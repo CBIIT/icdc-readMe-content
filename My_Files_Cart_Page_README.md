@@ -45,7 +45,7 @@ To get started with analyzing data quickly check out the new ICDC Tutorial websi
 * Build a cohort of interest using the faceted search menu
 
 * Add cases, samples, or files to the "My Files" Cart 
-
+<!-- PAGE BREAK --> 
 * Navigate to the "My Files" Cart page [https://caninecommons.cancer.gov/#/fileCentricCart](https://caninecommons.cancer.gov/#/fileCentricCart)
 
 * Expand the dropdown menu of the Available Export Options button
