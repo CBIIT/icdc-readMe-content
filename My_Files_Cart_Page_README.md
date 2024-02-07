@@ -11,7 +11,7 @@ Within the ICDC, a user can easily generate a file manifest using the dashboard 
 
 ### Importing the ICDC File Manifest to the Cancer Genomics Cloud (CGC) 
 After downloading the file manifest from the ICDC, there is no need to download any of the actual ICDC omics-based files locally. Instead, the file manifest provides all of the instructions needed for the Cloud Resources to access these files on demand directly from cloud storage.  
- 
+<!-- PAGE BREAK --> 
 In order to export the ICDC file manifest to the Cancer Genomics Cloud (CGC) follow the steps listed below: 
  
 
