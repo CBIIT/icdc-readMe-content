@@ -37,7 +37,8 @@ This button enables the simple and immediate transfer of a file manifest generat
 
 To get started with analyzing data quickly check out the new ICDC Tutorial website at [https://cbiit.github.io/icdc-bioinformatics/](https://cbiit.github.io/icdc-bioinformatics/) or follow the steps listed below: 
 
-* Note that the first step is to create a CGC account and project at this URL: [https://www.cancergenomicscloud.org/](https://www.cancergenomicscloud.org/) 
+- Note that the first step is to create a CGC account and project at this URL: [https://www.cancergenomicscloud.org/](https://www.cancergenomicscloud.org/) 
+
 * Navigate to the ICDC Explore Dashboard [https://caninecommons.cancer.gov/#/explore](https://caninecommons.cancer.gov/#/explore)
 
 * Build a cohort of interest using the faceted search menu
