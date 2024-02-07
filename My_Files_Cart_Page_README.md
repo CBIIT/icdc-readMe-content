@@ -39,13 +39,13 @@ To get started with analyzing data quickly check out the new ICDC Tutorial websi
  
 
 * Note that the first step is to create a CGC account and project at this URL: [https://www.cancergenomicscloud.org/](https://www.cancergenomicscloud.org/)
-
+<!-- PAGE BREAK --> 
 * Navigate to the ICDC Explore Dashboard [https://caninecommons.cancer.gov/#/explore](https://caninecommons.cancer.gov/#/explore)
 
 * Build a cohort of interest using the faceted search menu
 
 * Add cases, samples, or files to the "My Files" Cart 
-<!-- PAGE BREAK --> 
+
 * Navigate to the "My Files" Cart page [https://caninecommons.cancer.gov/#/fileCentricCart](https://caninecommons.cancer.gov/#/fileCentricCart)
 
 * Expand the dropdown menu of the Available Export Options button
