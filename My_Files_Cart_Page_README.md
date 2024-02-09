@@ -33,7 +33,7 @@ In order to export the ICDC file manifest to the Cancer Genomics Cloud (CGC) fol
 
 
 ### The Export to the Cancer Genomics Cloud (CGC) Button  
-This button enables the simple and immediate transfer of a file manifest generated in the ICDC to the Cancer Genomics Cloud (CGC), meaning that with only a single click, files are immediately ready for analysis within the CGC. With a cohort of files of interest already derived via the ICDC Explore Dashboard and added to the “My Files” Cart page, clicking the “Export to CGC” button will trigger the transfer of all necessary file metadata such that once a user has been authenticated with the CGC, the files in question can be directly accessed from their ICDC cloud storage locations by a CGC project.
+This button enables the simple and immediate transfer of a file manifest generated in the ICDC to the Cancer Genomics Cloud (CGC), meaning that with only a single click, files are ready for analysis within the CGC. With a cohort of files of interest already derived via the ICDC Explore Dashboard and added to the “My Files” Cart page, clicking the “Export to Cancer Genomics Cloud” button will trigger the transfer of all necessary file metadata such that once a user has been authenticated with the CGC, the files in question can be digitally accessed from ICDC cloud storage by a CGC project.
 
 To get started with analyzing data quickly check out the new ICDC Tutorial website at [https://cbiit.github.io/icdc-bioinformatics/](https://cbiit.github.io/icdc-bioinformatics/) or follow the steps listed below: 
 
